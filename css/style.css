@@ -674,6 +674,7 @@ section{
     color: #777777;
     text-transform: capitalize;
     text-align: center;
+    margin-top: 5px;
 }
 
 .products .product-container .product .product-details .colors{
@@ -774,6 +775,16 @@ section{
     }
     .products .product-container .product .product-image .discount{
         top:15.5%;
+    }
+    .products .product-container .product .product-details p{
+        margin-bottom:5px;
+    }
+    .products .product-container .product .product-details .colors{
+        padding:0px;
+       
+    }
+    .products .product-container .product .product-details h6{
+        margin-bottom:0px;
     }
 
    } 
