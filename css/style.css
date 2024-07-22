@@ -674,7 +674,7 @@ section{
     color: #777777;
     text-transform: capitalize;
     text-align: center;
-    margin-top: 5px;
+    margin: 3px 0px 2px 0px;
 }
 
 .products .product-container .product .product-details .colors{
@@ -737,7 +737,7 @@ section{
         display: flex;
         flex-wrap: wrap;
         justify-content:center;
-        /* align-items: center; */
+
     }
     .products .product-container .product{
         width:35%;
@@ -775,9 +775,6 @@ section{
     }
     .products .product-container .product .product-image .discount{
         top:15.5%;
-    }
-    .products .product-container .product .product-details p{
-        margin-bottom:5px;
     }
     .products .product-container .product .product-details .colors{
         padding:0px;
@@ -898,11 +895,15 @@ section{
     .banner-statics .banner-statics-parts{
         width: 80%;
     }
+    
     .banner-statics .banner-statics-parts .banner-statics-parts-content h5{
-        padding-bottom: 5px;
+        padding-bottom: 0px;
+        margin-bottom: 6px;
     }
     .banner-statics .banner-statics-parts .banner-statics-parts-content h2{
-        padding-bottom: 5px;
+        padding-bottom: 0px;
+        margin-bottom: 2px;
+        line-height: 1;
     }
     .banner-statics .banner-statics-parts .banner-statics-parts-content a{
         font-size: 9px;
